@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Early career biologist, vibe coder.
 <!--
 **mkazbekov/mkazbekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
