@@ -30,6 +30,8 @@ clear design       -> tools people can actually read, use, and enjoy
 - Learning how to turn biological questions into clean, testable code.
 - Exploring AI-assisted development as a way to move from idea to prototype faster.
 - Building small tools that make research, notes, data, and daily workflows less messy.
+- Built a private flow cytometry automation tool; I can explain the workflow and how it works on request.
+- Currently working on another automation project in cell biology.
 - Getting better at communicating science with visuals, interfaces, and readable docs.
 
 ## Toolbox
