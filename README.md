@@ -70,16 +70,3 @@ Also interested in: bioinformatics, data visualization, automation, scientific c
   <b>Biology brain. Builder hands. Curious about the messy middle.</b>
 
 </div>
-
-## Visitor Analytics
-
-I keep this profile privacy-aware: public README counters often count repeated image loads, not guaranteed unique people.
-
-City-level visitor maps need a real analytics backend, and GitHub profile READMEs cannot run the JavaScript needed for accurate city tracking. If I add one later, it should be anonymized, privacy-friendly, and based on unique visits rather than inflated refresh counts.
-
-<div align="center">
-
-  <img src="https://img.shields.io/badge/visitor%20analytics-privacy--aware-1F7A5C?style=flat-square" alt="Privacy-aware visitor analytics" />
-  <img src="https://img.shields.io/badge/city%20map-requires%20analytics%20backend-3A86FF?style=flat-square" alt="City map requires analytics backend" />
-
-</div>
