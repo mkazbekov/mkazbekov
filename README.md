@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1F7A5C,55:3A86FF,100:8E44AD&text=Mirza%20Kazbekov&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Biology%20%2B%20vibe%20coding%20%2B%20useful%20little%20tools&descAlignY=58&animation=fadeIn" alt="Mirza Kazbekov banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1F7A5C,55:3A86FF,100:8E44AD&text=Mirzabek%20Kazbekov&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Biology%20%2B%20vibe%20coding%20%2B%20useful%20little%20tools&descAlignY=58&animation=fadeIn" alt="Mirzabek Kazbekov banner" />
 
   <p>
     <img src="https://img.shields.io/badge/Early--career-biologist-1F7A5C?style=for-the-badge" alt="Early-career biologist" />
@@ -10,7 +10,7 @@
 
 </div>
 
-## Hey, I'm Mirza
+## Hey, I'm Mirzabek
 
 I'm an early-career biologist who likes making useful things with code. I am especially interested in the space where living systems, data, design, and fast prototyping meet.
 
@@ -51,8 +51,8 @@ Also interested in: bioinformatics, data visualization, automation, scientific c
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mkazbekov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mirza's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkazbekov&layout=compact&theme=tokyonight&hide_border=true" alt="Mirza's top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mkazbekov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Mirzabek's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkazbekov&layout=compact&theme=tokyonight&hide_border=true" alt="Mirzabek's top languages" />
 
 </div>
 
