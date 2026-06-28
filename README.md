@@ -37,7 +37,9 @@ clear design       -> tools people can actually read, use, and enjoy
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,node,html,css,git,github,vscode" alt="Python, JavaScript, TypeScript, React, Node, HTML, CSS, Git, GitHub, VS Code" />
+  <img src="https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white" alt="Positron" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,js,ts,react,node,html,css,vscode" alt="Python, Git, GitHub, JavaScript, TypeScript, React, Node, HTML, CSS, VS Code" />
 </p>
 
 Also interested in: bioinformatics, data visualization, automation, scientific communication, notebooks, and creative coding.
