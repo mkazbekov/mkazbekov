@@ -28,6 +28,3 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
           plugin_languages_details: percentage
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
