@@ -18,7 +18,6 @@
 <a href="https://www.linkedin.com/in/kazbekov/">
   <img src="https://img.shields.io/badge/LinkedIn-in%2Fkazbekov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=mkazbekov&label=Profile%20views&color=3A86FF&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -63,7 +62,6 @@ clear design       ->  tools people can actually read, use, and enjoy
 <div align="center">
 
 <img src="https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white" alt="Positron"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
 
 <br/><br/>
 
@@ -90,16 +88,11 @@ clear design       ->  tools people can actually read, use, and enjoy
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkazbekov&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Mirzabek's GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkazbekov&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mirzabek's top languages"/>
+<img src="https://raw.githubusercontent.com/mkazbekov/mkazbekov/main/metrics.svg" alt="Mirzabek's GitHub metrics" width="100%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mkazbekov&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mkazbekov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub trophies"/>
+<img src="https://streak-stats.demolab.com?user=mkazbekov&background=0D1117&ring=3A86FF&fire=8E44AD&currStreakLabel=3A86FF&sideLabels=1F7A5C&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
