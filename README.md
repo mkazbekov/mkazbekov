@@ -1,18 +1,18 @@
 <!-- ══════════════════════  BANNER  ══════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1F7A5C,50:3A86FF,100:8E44AD&text=Mirzabek%20Kazbekov&fontColor=ffffff&fontSize=44&fontAlignY=34&desc=Biology%20brain%20%E2%80%A2%20Builder%20hands%20%E2%80%A2%20Curious%20about%20the%20messy%20middle&descSize=16&descAlignY=56&animation=fadeIn" alt="Mirzabek Kazbekov banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0F2027,35:2C5364,70:3A86FF,100:00F5A0&text=Mirzabek%20Kazbekov&fontColor=ffffff&fontSize=46&fontAlignY=32&desc=Biologist%20by%20trade%20%E2%80%A2%20Building%20AI%20agents%20by%20obsession&descSize=17&descAlignY=55&animation=fadeIn" alt="Mirzabek Kazbekov banner" width="100%"/>
 
 <!-- ══════════════════════  TYPING SUBTITLE  ══════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3A86FF&center=true&vCenter=true&width=620&lines=Early-career+biologist+%F0%9F%A7%AC;Vibe+coder+%2B+curious+builder;Turning+biology+questions+into+clean+code;Building+small%2C+useful+tools+in+public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=680&lines=Experienced+biologist+%F0%9F%A7%AC;Next-gen+developer+in+progress+%E2%9A%A1;Currently+building+AI+agents;Where+wet-lab+rigor+meets+autonomous+systems" alt="Typing SVG" />
 </a>
 
 <!-- ══════════════════════  BADGES  ══════════════════════ -->
 <p>
-  <img src="https://img.shields.io/badge/Early--career-biologist-1F7A5C?style=for-the-badge" alt="Early-career biologist"/>
-  <img src="https://img.shields.io/badge/Vibe-coder-3A86FF?style=for-the-badge" alt="Vibe coder"/>
-  <img src="https://img.shields.io/badge/Curious-builder-8E44AD?style=for-the-badge" alt="Curious builder"/>
+  <img src="https://img.shields.io/badge/Biologist-experienced-0F9D58?style=for-the-badge&logo=dna&logoColor=white" alt="Experienced biologist"/>
+  <img src="https://img.shields.io/badge/Developer-in%20progress-3A86FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Next-gen developer in progress"/>
+  <img src="https://img.shields.io/badge/Building-AI%20Agents-00F5A0?style=for-the-badge&logo=robotframework&logoColor=black" alt="Building AI agents"/>
 </p>
 
 <a href="https://www.linkedin.com/in/kazbekov/">
@@ -26,20 +26,20 @@
 <!-- ══════════════════════  ABOUT  ══════════════════════ -->
 ## 🧬 Hey, I'm Mirzabek
 
-I'm an early-career **biologist** who likes making useful things with **code**. I'm especially interested in the space where living systems, data, design, and fast prototyping meet.
+I'm an **experienced biologist** who has spent years thinking in systems — organisms, pathways, feedback loops — and I'm now channeling that same systems mindset into building **AI agents**. Call it a second career track, or just the natural next step: I've always been drawn to complex, self-regulating systems, and few things are more interesting right now than teaching software to act on its own.
 
-I use GitHub as a lab notebook, workshop, and playground — some projects are polished, some are experiments, and some are the *"wait, could I build that?"* ideas that turn into something surprisingly helpful.
+GitHub is where that transition plays out in public — part lab notebook, part engineering workshop. Some repos carry real domain expertise from the bench, others are me leveling up fast as a developer, and increasingly, everything is converging on **agentic systems**.
 
 <br/>
 
 <!-- ══════════════════════  WHAT I BUILD  ══════════════════════ -->
-## 🛠️ What I Like Building
+## 🛠️ What I'm Building
 
 ```text
-biology curiosity  ->  questions, papers, organisms, ecosystems
-data + code        ->  scripts, dashboards, small automations
-vibe coding        ->  quick prototypes, weird ideas, AI-assisted workflows
-clear design       ->  tools people can actually read, use, and enjoy
+biology expertise    ->  years of domain depth in wet-lab science & systems thinking
+agents in progress    ->  autonomous workflows, tool-using AI, multi-agent pipelines
+data + code           ->  scripts, dashboards, automations that used to take hours
+clear design          ->  tools people can actually read, use, and enjoy
 ```
 
 <br/>
@@ -47,12 +47,12 @@ clear design       ->  tools people can actually read, use, and enjoy
 <!-- ══════════════════════  CURRENT ORBIT  ══════════════════════ -->
 ## 🔭 Current Orbit
 
-- 🌱 Learning how to turn biological questions into clean, testable code.
-- ⚡ Exploring AI-assisted development to move from idea to prototype faster.
-- 🧰 Building small tools that make research, notes, data, and daily workflows less messy.
-- 🔬 Built a private **flow cytometry automation** tool — happy to explain the workflow on request.
-- 🧫 Currently working on another automation project in **cell biology**.
-- 📊 Getting better at communicating science with visuals, interfaces, and readable docs.
+- 🤖 **Actively building AI agents** — this is where most of my energy is going right now.
+- 🧠 Bringing biological systems thinking (feedback loops, robustness, emergent behavior) into agent design.
+- 🔬 Built a private **flow cytometry automation** tool, grounded in real lab experience.
+- 🧫 Shipping another **cell biology automation** project alongside the agent work.
+- ⚡ Leveling up fast as a developer — going from domain expert to builder, one project at a time.
+- 📊 Sharpening how I communicate technical work through visuals, interfaces, and clean docs.
 
 <br/>
 
@@ -62,6 +62,8 @@ clear design       ->  tools people can actually read, use, and enjoy
 <div align="center">
 
 <img src="https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white" alt="Positron"/>
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=OpenAI&logoColor=white" alt="AI Agents"/>
 
 <br/><br/>
 
@@ -69,17 +71,17 @@ clear design       ->  tools people can actually read, use, and enjoy
 
 </div>
 
-> Also interested in: **bioinformatics · data visualization · automation · scientific communication · notebooks · creative coding**
+> Also interested in: **agentic AI · bioinformatics · data visualization · automation · scientific communication · creative coding**
 
 <br/>
 
 <!-- ══════════════════════  HOW I WORK  ══════════════════════ -->
 ## 🌀 How I Work
 
-- I like tiny experiments that teach something quickly.
+- I bring years of scientific rigor to how I test, validate, and reason about systems — including AI ones.
+- I treat agent-building like biology: observe, hypothesize, run the experiment, iterate.
 - I prefer **readable** tools over clever tools.
-- I enjoy mixing scientific thinking with playful interface design.
-- I build in public — the best way to get sharper is to make, share, and iterate.
+- I build in public — the fastest way to get sharper is to make, share, and iterate.
 
 <br/>
 
@@ -92,7 +94,7 @@ clear design       ->  tools people can actually read, use, and enjoy
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=mkazbekov&background=0D1117&ring=3A86FF&fire=8E44AD&currStreakLabel=3A86FF&sideLabels=1F7A5C&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=mkazbekov&background=0D1117&ring=00F5A0&fire=3A86FF&currStreakLabel=00F5A0&sideLabels=0F9D58&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
@@ -116,18 +118,18 @@ clear design       ->  tools people can actually read, use, and enjoy
 <!-- ══════════════════════  FOLLOW ALONG  ══════════════════════ -->
 ## ✨ Good Reasons To Follow Along
 
-- You like biology and want to see what early-career scientific building looks like.
-- You're curious about AI-assisted coding without the hype fog.
+- You want to see a domain expert cross over into building real software, in public.
+- You're curious what happens when biological systems thinking meets AI agent design.
 - You enjoy small, practical projects with a bit of personality.
-- You're also learning, experimenting, and figuring things out in public.
+- You're building agents too, and want to compare notes.
 
 <br/>
 
 <!-- ══════════════════════  FOOTER  ══════════════════════ -->
 <div align="center">
 
-**Biology brain. Builder hands. Curious about the messy middle.**
+**Biologist by training. Developer in progress. Building the agents of what's next.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:8E44AD,50:3A86FF,100:1F7A5C&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00F5A0,50:3A86FF,100:0F2027&section=footer" alt="footer" width="100%"/>
 
 </div>
