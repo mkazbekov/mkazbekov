@@ -28,7 +28,7 @@
 
 I'm an **experienced biologist** who has spent years thinking in systems — organisms, pathways, feedback loops — and I'm now channeling that same systems mindset into building **AI agents**. Call it a second career track, or just the natural next step: I've always been drawn to complex, self-regulating systems, and few things are more interesting right now than teaching software to act on its own.
 
-GitHub is where that transition plays out in public — part lab notebook, part engineering workshop. Some repos carry real domain expertise from the bench, others are me leveling up fast as a developer, and increasingly, everything is converging on **agentic systems**.
+GitHub is my lab notebook and engineering workshop for that transition. Some repos carry real domain expertise from the bench, others are me leveling up fast as a developer, and increasingly, everything is converging on **agentic systems**.
 
 <br/>
 
@@ -81,7 +81,7 @@ clear design          ->  tools people can actually read, use, and enjoy
 - I bring years of scientific rigor to how I test, validate, and reason about systems — including AI ones.
 - I treat agent-building like biology: observe, hypothesize, run the experiment, iterate.
 - I prefer **readable** tools over clever tools.
-- I build in public — the fastest way to get sharper is to make, share, and iterate.
+- I iterate fast and stay hands-on — the fastest way to get sharper is to make, break, and rebuild.
 
 <br/>
 
@@ -118,7 +118,7 @@ clear design          ->  tools people can actually read, use, and enjoy
 <!-- ══════════════════════  FOLLOW ALONG  ══════════════════════ -->
 ## ✨ Good Reasons To Follow Along
 
-- You want to see a domain expert cross over into building real software, in public.
+- You want to see a domain expert cross over into building real software.
 - You're curious what happens when biological systems thinking meets AI agent design.
 - You enjoy small, practical projects with a bit of personality.
 - You're building agents too, and want to compare notes.
