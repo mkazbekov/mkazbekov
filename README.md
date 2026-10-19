@@ -18,6 +18,9 @@
 <a href="https://www.linkedin.com/in/kazbekov/">
   <img src="https://img.shields.io/badge/LinkedIn-in%2Fkazbekov-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://mkazbekov.github.io/">
+  <img src="https://img.shields.io/badge/Website-mkazbekov.github.io-3A86FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Personal website: mkazbekov.github.io"/>
+</a>
 
 </div>
 
