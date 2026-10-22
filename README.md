@@ -88,21 +88,6 @@ clear design          ->  tools people can actually read, use, and enjoy
 
 <br/>
 
-<!-- ══════════════════════  GITHUB SNAPSHOT  ══════════════════════ -->
-## 📊 GitHub Snapshot
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/mkazbekov/mkazbekov/main/metrics.svg" alt="Mirzabek's GitHub metrics" width="100%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=mkazbekov&background=0D1117&ring=00F5A0&fire=3A86FF&currStreakLabel=00F5A0&sideLabels=0F9D58&hide_border=true" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
 <!-- ══════════════════════  CONTRIBUTION SNAKE  ══════════════════════ -->
 ## 🐍 Contribution Graph
 
